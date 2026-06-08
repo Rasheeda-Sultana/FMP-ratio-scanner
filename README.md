@@ -196,6 +196,5 @@ This project demonstrates:
 
 **Rasheeda Sultana**
 
-GitHub: https://github.com/Rasheeda-Sultana
 ````
 
